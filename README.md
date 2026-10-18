@@ -61,3 +61,17 @@ This project is being developed iteratively. Further analysis, dashboard improve
 Aspiring Data Analyst | Mechanical Engineering Background
 
 Areas of interest: manufacturing analytics, production performance, quality analysis, and operational improvement.
+
+## Dashboard Preview
+
+### Production Dashboard 1
+
+![Production Dashboard 1](images/Production%20Dashboard%201.png)
+
+### Production Dashboard 2
+
+![Production Dashboard 2](images/Production%20Dashboard%202.png)
+
+### Machine Performance
+
+![Machine Performance](images/Machine%20Performance.png)
